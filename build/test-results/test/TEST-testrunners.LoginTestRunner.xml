@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunners.LoginTestRunner" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-11-17T04:00:38" hostname="hhhameem-thinkpad" time="89.805">
+  <properties/>
+  <testcase name="doFailedLogin" classname="testrunners.LoginTestRunner" time="81.127"/>
+  <testcase name="doLogin" classname="testrunners.LoginTestRunner" time="6.351"/>
+  <testcase name="ifProfileImageExist" classname="testrunners.LoginTestRunner" time="0.051"/>
+  <testcase name="doLogout" classname="testrunners.LoginTestRunner" time="2.226"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

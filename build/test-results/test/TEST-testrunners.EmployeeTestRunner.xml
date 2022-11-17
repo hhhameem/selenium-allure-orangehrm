@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunners.EmployeeTestRunner" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-11-17T04:04:04" hostname="hhhameem-thinkpad" time="10.86">
+  <properties/>
+  <testcase name="doUpdateNationality" classname="testrunners.EmployeeTestRunner" time="7.674"/>
+  <testcase name="doUpdateBloodGroup" classname="testrunners.EmployeeTestRunner" time="3.184"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

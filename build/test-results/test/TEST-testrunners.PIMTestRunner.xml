@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testrunners.PIMTestRunner" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-11-17T04:02:28" hostname="hhhameem-thinkpad" time="61.413">
+  <properties/>
+  <testcase name="getEmployeeStatusFullTimePermanent" classname="testrunners.PIMTestRunner" time="6.299"/>
+  <testcase name="getEmployeeStatusFullTimeProbation" classname="testrunners.PIMTestRunner" time="2.524"/>
+  <testcase name="doAddFirstEmployee" classname="testrunners.PIMTestRunner" time="16.505"/>
+  <testcase name="doAddSecondEmployee" classname="testrunners.PIMTestRunner" time="16.255"/>
+  <testcase name="doFailedAddEmployee" classname="testrunners.PIMTestRunner" time="5.999"/>
+  <testcase name="doFindLastEmployee" classname="testrunners.PIMTestRunner" time="13.827"/>
+  <system-out><![CDATA[cell id0251
+cell id20249
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
